@@ -1,0 +1,12 @@
+node_modules
+.next
+.data
+.env
+.env.*
+package-lock.json
+playwright-report
+test-results
+coverage
+prisma/migrations
+AGENTS.md
+next-env.d.ts
